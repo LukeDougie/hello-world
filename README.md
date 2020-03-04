@@ -1,5 +1,4 @@
 # hello-world
-Very first repository
 
 Hello all,
 
